@@ -8,4 +8,5 @@
 L-J-P-G/L-J-P-G is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Hi, I'm L-J-P-G and I'm interested in Javascript, bash and batch scripts. I love the small details, with love L.
+Hi, I'm L-J-P-G and I'm interested in IT things. 
+I love the small details, with love L.
